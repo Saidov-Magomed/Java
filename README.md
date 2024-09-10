@@ -1,2 +1,2 @@
 # Практики по Джаве
-java/practika2.io
+practika2.io
