@@ -8,9 +8,9 @@ public class Main {
 
         System.out.print('\n');
 
-        bmw_e34.setColor("red");
-        bmw_e34.setLicense("no");
-        bmw_e34.setModel("bmw_e34");
+        bmw_e34.setColor("RED");
+        bmw_e34.setLicense("No");
+        bmw_e34.setModel("BMW_E34");
         bmw_e34.setYear(1996);
 
         System.out.print("Model: " + bmw_e34.getModel());
