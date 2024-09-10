@@ -8,10 +8,10 @@ public class Main {
 
         System.out.print('\n');
 
-        uazic_0.setColor("red");
-        uazic_0.setLicense("no");
-        uazic_0.setModel("bmw_e34");
-        uazic_0.setYear(1996);
+        bmw_e34.setColor("red");
+        bmw_e34.setLicense("no");
+        bmw_e34.setModel("bmw_e34");
+        bmw_e34.setYear(1996);
 
         System.out.print("Model: " + bmw_e34.getModel());
         System.out.print("\nLicense: " + bmw_e34.getLicense());
