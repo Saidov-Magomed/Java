@@ -5,7 +5,9 @@ public class Main {
         Car_2 bmw_e28 = new Car_2("bmw-e28", "dark-blue");
 
         To_String(bmw_e34);
-
+        To_String(bmw_e39);
+        To_String(bmw_e28);
+        
         System.out.print('\n');
 
         bmw_e34.setColor("RED");
