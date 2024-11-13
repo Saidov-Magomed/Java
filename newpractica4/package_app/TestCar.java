@@ -15,8 +15,8 @@ public class TestCar {
         Vehicle vehicle1 = car1; 
         Vehicle vehicle2 = electricCar1;
         
-        vehicle1.setColor("Green");
-        vehicle2.setOwnerName("John Doe");
+        vehicle1.setColor("White");
+        vehicle2.setOwnerName("John Johnes");
         
         System.out.println("\nUpdated Car:\n" + vehicle1);
         System.out.println("Updated Electric Car:\n" + vehicle2);
