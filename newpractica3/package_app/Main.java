@@ -15,7 +15,7 @@ public class Main {
         
         System.out.println("\n---\n");
 
-        ElectricCar electricCar1 = new ElectricCar("Tesla", "456DEF", "Blue", 2021, "Bob Johnson", "INS654321", 75);
+        ElectricCar electricCar1 = new ElectricCar("Tesla", "456DEF", "Blue", 2021, "Roy Jones", "INS654321", 75);
         System.out.println(electricCar1);
 
         System.out.println("Engine Type of Electric Car: " + electricCar1.getEngineType());
