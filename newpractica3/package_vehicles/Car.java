@@ -23,8 +23,8 @@ public class Car {
         this.model = "BMW";
         this.license = "123ABD";
         this.color = "Black";
-        this.year = 2023;
-        this.ownerName = "Aleksandr.A";
+        this.year = 1996;
+        this.ownerName = "Saidov. M";
         this.insuranceNumber = "123456";
         this.engineType = "Gasoline";
     }
