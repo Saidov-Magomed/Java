@@ -10,7 +10,7 @@ public class Main {
         System.out.println(car1);
         
         System.out.println("Accessing public field: " + car1.getOwnerName());
-        car1.setOwnerName("Nikita.A");
+        car1.setOwnerName("Bolyan. M");
         System.out.println("Updated Owner: " + car1.getOwnerName());
         
         System.out.println("\n---\n");
