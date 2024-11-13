@@ -6,7 +6,7 @@ import vehicles.ElectricCar;
 public class Main {
     public static void main(String[] args) {
 
-        Car car1 = new Car("Toyota", "123ABC", "Red", 2019, "Aleksandr.A", "INS123456", "Gasoline");
+        Car car1 = new Car("BMW", "123ABC", "Red", 1996, "Saidov. M", "INS123456", "Gasoline");
         System.out.println(car1);
         
         System.out.println("Accessing public field: " + car1.getOwnerName());
