@@ -9,7 +9,7 @@ public abstract class Vehicle {
     private String insuranceNumber;
     protected String engineType;
 
-    public Vehicle(String model, String license, String color, int year, String ownerName, String insuranceNumber)
+    public Vehicle(model, license, color, year, ownerName, insuranceNumber)
     {
         this.model = model;
         this.license = license;
